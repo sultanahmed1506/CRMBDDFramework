@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="1" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="3" time="0">
+<testcase classname="CRM Login Feature" name="CRM Login Test Scenario" time="0">
+<failure message="The scenario has no steps"/>
+</testcase>
+<testcase classname="CRM Login Feature" name="CRM Login Test Scenario" time="0">
+<system-out><![CDATA[Given User is already in CRM login page.....................................skipped
+When User Title of CRM title page shows Cogmento CRM........................skipped
+Then user enters "sultan07@gmail.com" and "Tanima29"........................skipped
+Then user clicks on login button............................................skipped
+Then user lands on home page................................................skipped
+Then user click on gearicon to logout.......................................skipped
+]]></system-out>
+</testcase>
+<testcase classname="CRM Login Feature" name="CRM Login Test Scenario 2" time="0">
+<system-out><![CDATA[Given User is already in CRM login page.....................................skipped
+When User Title of CRM title page shows Cogmento CRM........................skipped
+Then user enters "ambreen30@gmail.com" and "Ambreen123".....................skipped
+Then user clicks on login button............................................skipped
+Then user lands on home page................................................skipped
+Then user click on gearicon to logout.......................................skipped
+]]></system-out>
+</testcase>
+</testsuite>
